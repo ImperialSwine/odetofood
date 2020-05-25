@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\OdeToFood.csproj": {}
+    "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\OdeToFood.Core\\OdeToFood.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\OdeToFood.csproj": {
+    "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\OdeToFood.csproj",
-        "projectName": "OdeToFood",
-        "projectPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\OdeToFood.csproj",
+        "projectUniqueName": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\SachinKrishnamoorthy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\obj\\",
+        "outputPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SachinKrishnamoorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,12 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -54,9 +48,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

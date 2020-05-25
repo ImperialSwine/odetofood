@@ -6076,11 +6076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SachinKrishnamoorthy\\Documents\\ode2food\\odetofood\\odetofood\\odetofood.csproj",
+      "projectUniqueName": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\odetofood.csproj",
       "projectName": "odetofood",
-      "projectPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\ode2food\\odetofood\\odetofood\\odetofood.csproj",
+      "projectPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\odetofood.csproj",
       "packagesPath": "C:\\Users\\SachinKrishnamoorthy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\ode2food\\odetofood\\odetofood\\obj\\",
+      "outputPath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SachinKrishnamoorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6130,7 +6130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

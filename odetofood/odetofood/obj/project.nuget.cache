@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Jw0iZGNJ90D4so5lC6qY9DAexEVPsGRP+uBO452Jz1BppYBb8lQbaPqCW3dNTdeEPnDGM6kjwIBl4Xkyd/3sQ==",
+  "dgSpecHash": "BTqnQjA++wwqfCU69+rYh4CGuPT0p+52SI82HtwBGJyKA6CxETNSA7ES42ctJJL6ycbtKRrXVvo+g8uzM04N8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\ode2food\\odetofood\\odetofood\\odetofood.csproj",
+  "projectFilePath": "C:\\Users\\SachinKrishnamoorthy\\Documents\\odetofood\\odetofood\\odetofood\\OdeToFood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SachinKrishnamoorthy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\SachinKrishnamoorthy\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

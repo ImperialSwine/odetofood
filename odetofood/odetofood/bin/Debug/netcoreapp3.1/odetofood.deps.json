@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "odetofood/1.0.0": {
+      "OdeToFood/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.2",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -309,10 +309,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "odetofood.dll": {}
+          "OdeToFood.dll": {}
         },
         "compile": {
-          "odetofood.dll": {}
+          "OdeToFood.dll": {}
         }
       },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
@@ -3230,7 +3230,7 @@
     }
   },
   "libraries": {
-    "odetofood/1.0.0": {
+    "OdeToFood/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
