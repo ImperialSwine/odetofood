@@ -6,4 +6,14 @@
 
 <h1>List</h1>
 <h2>All the best restaurants live here</h2>
-@Model.Message
+<table class="table">
+    @foreach(var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+        </tr>
+    }
+</table>
+<div>@Model.Message</div>
